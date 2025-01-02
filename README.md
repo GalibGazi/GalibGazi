@@ -1,4 +1,4 @@
-[![MasterHead](https://www.abledesigneering.in/wp-content/uploads/2022/07/Industrial-1.jpg)
+![MasterHead](https://www.abledesigneering.in/wp-content/uploads/2022/07/Industrial-1.jpg)
 <h1 align="center">Hi 👋, I'm Gazi Md. Galib Hossain</h1>
 <h3 align="center">A passionate Machine Learner from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
