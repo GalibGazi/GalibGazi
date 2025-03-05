@@ -9,7 +9,7 @@
 
 - Currently Working on XAI Project [Education Spending and Economic Outcomes: An Explainable AI-Based Exploration](https://github.com/GalibGazi/Education-Spending)
 
-- 👨‍💻 All of my projects are available at ![https://sites.google.com/view/gazigalib](https://sites.google.com/view/gazigalib)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **gazigalib67@gmail.com**
 
